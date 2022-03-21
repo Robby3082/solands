@@ -6,7 +6,7 @@ const Home: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>NFT Gallery!</title>
+        <title>Sol Islands Gallery</title>
       
       </Head>
       <GalleryView />

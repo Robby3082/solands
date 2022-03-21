@@ -44,6 +44,12 @@ export const HomeView: FC = ({}) => {
                                 <a className="nav-link" href="#roadmap">Roadmap</a>
                             </li>
                             <li className="nav-item">
+                                <a className="nav-link" href="https://www.solalandhq.com/stake/ET5WxndzwKSTM55aoBmPtkiRCfEyL8MSwTiL2SU6XFsL" target="_blank">Staking</a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link" href="https://magiceden.io/marketplace/sol_island" target="_blank">Magic Eden</a>
+                            </li>
+                            <li className="nav-item">
                             <Link href="/gallery">
                   <a className="nav-link">
                  NFT Gallery
